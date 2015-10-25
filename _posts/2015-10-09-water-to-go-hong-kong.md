@@ -7,8 +7,8 @@ starred: false
 keywords: []
 description: ''
 title: Water to Go Hong Kong
-dateModified: '2015-10-09T08:06:40.012Z'
-datePublished: '2015-10-25T09:40:32.276Z'
+dateModified: '2015-10-25T09:40:32.276Z'
+datePublished: '2015-10-25T09:40:34.740Z'
 sourcePath: _posts/2015-10-09-water-to-go-hong-kong.md
 published: true
 authors: []
